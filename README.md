@@ -1,5 +1,6 @@
 # Lua-developer-Forward_Collision_Preventions_System
 2022-1 Summer vacation Project  
+Enviorment : C++ Visual Studio 2019
 
 summary  
 카메라를 이용하여 입력받는 영상에서 전방의 차량을 인지하고 앞차량과의 거리를 실시간으로 계산하여 충돌이 예상될 시 차량에 대해 브레이크를 걸어준다.  
